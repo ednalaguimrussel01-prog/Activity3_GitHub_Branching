@@ -19,3 +19,7 @@ Connect this existing project to a new empty GitHub repository. Follow the lab i
 ## Educational Background
 
 I am studying BS Computer Engineering and developing my skills in programming and technology.
+
+## Hobbies
+
+I enjoy exploring technology, learning computer applications, and spending time with friends.
