@@ -15,3 +15,7 @@ The difference between `git add` and `git commit` is that `git add` stages chang
 ## Activity 3 Notes
 
 Connect this existing project to a new empty GitHub repository. Follow the lab instructions to push `main`, make a remote README edit, fetch and pull, then create and push `feature-about`.
+
+## Educational Background
+
+I am studying BS Computer Engineering and developing my skills in programming and technology.
