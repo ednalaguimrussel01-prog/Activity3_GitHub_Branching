@@ -1,6 +1,6 @@
 # Personal Profile Website
 
-**Name:** [Your Full Name]
+**Name:** Russel C. Ednalaguim
 
 **Project Title:** Personal Profile Website
 
