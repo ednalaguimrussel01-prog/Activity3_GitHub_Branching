@@ -18,6 +18,9 @@ Connect this existing project to a new empty GitHub repository. Follow the lab i
 
 ## Educational Background
 
+This project is part of my Git Workshop Activity 3.
+It demonstrates remote repositories and branching using GitHub.
+
 I am studying BS Computer Engineering and developing my skills in programming and technology.
 
 ## Hobbies
